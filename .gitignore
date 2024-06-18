@@ -9,3 +9,5 @@ myenv/
 
 # Include CSV files
 # !*.csv
+
+.gitignore
